@@ -1,6 +1,10 @@
-## Hi there
+## Hi.
 
-I’m Justin Castillo, a computer science student focused on data science and analytics. I build end‑to‑end workflows—clean data, engineer features, train and tune models, and turn results into decisions. I’m seeking a Summer 2026 internship in Data Analysis or Data Science.
+I’m Justin Castillo, a computer science student focused on data science and analytics. 
+
+I love uncovering the stories hidden within massive amounts of information, and I feel that, as more and more data is collected and stored, this field will become increasingly vital. 
+
+At this point in my journey, I’m seeking a Summer 2026 internship in Data Analysis or Data Science.
 
 - I’m currently working on:
   - A time‑aware retail forecasting pipeline (Rossmann) with XGBoost and Optuna.
@@ -32,7 +36,7 @@ I’m Justin Castillo, a computer science student focused on data science and an
 - Pronouns: He/Him
 
 - Fun fact:
-  - I measure success by the decision a model enables, not the number of notebooks it produces.
+  - I have a Film degree, and CS will be my 2nd Bachelor's! CS is way more fun though. 
 
 ---
 
