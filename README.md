@@ -1,4 +1,4 @@
-I’m Justin Castillo, a computer science student focused on data science and analytics. 
+I’m a computer science student focused on data science and analytics. 
 
 I love uncovering the stories hidden within massive amounts of information, and I feel that, as more and more data is collected and stored, this field will become increasingly vital. 
 
